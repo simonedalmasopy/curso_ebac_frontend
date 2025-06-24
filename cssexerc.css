@@ -1,0 +1,171 @@
+header  {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 auto;
+    color: #9b989876;
+}
+
+header li {
+    display: inline;
+    margin-right: 16px;
+    list-style: none;
+    
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+header li a {
+    display: inline;
+  
+}
+
+.container {
+    width: 180px
+    margin: 0 auto;
+    
+}
+
+.articles {
+    display: flex;
+    
+}
+
+body > header {
+    background-color: #0b0b0b;
+    padding: 16px 0;
+    color: white;
+    
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.articles article img {
+    height: 136x;
+    width: auto;
+    
+}
+
+articles article {
+    display: flex;
+    width: 30%;
+ 
+}
+
+section {
+    padding: 16px 0;
+    
+}
+
+section h2,
+.articles article{
+    margin-bottom: 16px;
+    ;
+}
+
+section h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.articles article h3 {
+    margin-top: 8px
+    margin-bottom: 8px;
+}
+
+.articles article a {
+    background-color: rgba(79, 77, 222, 0.306);
+    color: white;
+    padding: 8px;
+    display: inline-block;
+}
+
+.articles {
+    display: flex;
+}
+
+.articles article p {
+    font-family: Arial, Helvetica, sans-serif; 
+    ;
+}
+
+.articles article a {
+    background-color: #381fc7;
+    padding: 8px;
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+
+.articles article a:hover {
+    text-decoration: underline;
+}
+
+
+articles article h3
+{
+    font-size: 24px;
+    font-weight: bold;
+    color: black
+}
+.articles article p {
+    font-size: 12px;
+    width: 80%;
+}
+
+section h2 {
+    font-size: 32px;
+    color: black;
+}
+
+#sports {
+    background-color: rgba(0, 255, 0, 0.1;)
+}
+
+img {
+  height: 136px;
+  width: 100%;
+}
+
+#sports 
+{
+    background-color: rgba(38, 28, 216, 0.5);
+}
+
+#economy {
+    background-color: rgba(16, 67, 9, 0.40);
+}
+
+#enterteinment {
+    background-color: rgba(188, 100, 46, 0.3);
+}
+
+#technology {
+    background-color: rgba(15, 2, 87, 0.3);
+}
+
+#sports .articles article a {
+    background-color: rgba(84, 47, 164, 0.9);
+}
+
+#economy .articles article a {
+    background-color: rgba(20, 55, 20, 0.9);
+}
+
+#enterteinment .articles article a {
+    background-color: rgba(212, 87, 25, 0.404);
+}
+
+#technology .articles article a {
+    background-color: rgba(2, 87, 87, 0.9);
+}
